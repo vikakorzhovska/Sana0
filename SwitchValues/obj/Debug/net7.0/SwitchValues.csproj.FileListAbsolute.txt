@@ -1,0 +1,14 @@
+C:\Users\Asus\Documents\Уроки\курси\tasks\Sana02\SwitchValues\bin\Debug\net7.0\SwitchValues.exe
+C:\Users\Asus\Documents\Уроки\курси\tasks\Sana02\SwitchValues\bin\Debug\net7.0\SwitchValues.deps.json
+C:\Users\Asus\Documents\Уроки\курси\tasks\Sana02\SwitchValues\bin\Debug\net7.0\SwitchValues.runtimeconfig.json
+C:\Users\Asus\Documents\Уроки\курси\tasks\Sana02\SwitchValues\bin\Debug\net7.0\SwitchValues.dll
+C:\Users\Asus\Documents\Уроки\курси\tasks\Sana02\SwitchValues\bin\Debug\net7.0\SwitchValues.pdb
+C:\Users\Asus\Documents\Уроки\курси\tasks\Sana02\SwitchValues\obj\Debug\net7.0\SwitchValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Documents\Уроки\курси\tasks\Sana02\SwitchValues\obj\Debug\net7.0\SwitchValues.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\Уроки\курси\tasks\Sana02\SwitchValues\obj\Debug\net7.0\SwitchValues.AssemblyInfo.cs
+C:\Users\Asus\Documents\Уроки\курси\tasks\Sana02\SwitchValues\obj\Debug\net7.0\SwitchValues.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Уроки\курси\tasks\Sana02\SwitchValues\obj\Debug\net7.0\SwitchValues.dll
+C:\Users\Asus\Documents\Уроки\курси\tasks\Sana02\SwitchValues\obj\Debug\net7.0\refint\SwitchValues.dll
+C:\Users\Asus\Documents\Уроки\курси\tasks\Sana02\SwitchValues\obj\Debug\net7.0\SwitchValues.pdb
+C:\Users\Asus\Documents\Уроки\курси\tasks\Sana02\SwitchValues\obj\Debug\net7.0\SwitchValues.genruntimeconfig.cache
+C:\Users\Asus\Documents\Уроки\курси\tasks\Sana02\SwitchValues\obj\Debug\net7.0\ref\SwitchValues.dll
