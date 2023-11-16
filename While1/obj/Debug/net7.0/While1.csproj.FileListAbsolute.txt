@@ -1,0 +1,14 @@
+C:\Users\Asus\Documents\Уроки\курси\tasks\Sana02\While1\bin\Debug\net7.0\While1.exe
+C:\Users\Asus\Documents\Уроки\курси\tasks\Sana02\While1\bin\Debug\net7.0\While1.deps.json
+C:\Users\Asus\Documents\Уроки\курси\tasks\Sana02\While1\bin\Debug\net7.0\While1.runtimeconfig.json
+C:\Users\Asus\Documents\Уроки\курси\tasks\Sana02\While1\bin\Debug\net7.0\While1.dll
+C:\Users\Asus\Documents\Уроки\курси\tasks\Sana02\While1\bin\Debug\net7.0\While1.pdb
+C:\Users\Asus\Documents\Уроки\курси\tasks\Sana02\While1\obj\Debug\net7.0\While1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Documents\Уроки\курси\tasks\Sana02\While1\obj\Debug\net7.0\While1.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\Уроки\курси\tasks\Sana02\While1\obj\Debug\net7.0\While1.AssemblyInfo.cs
+C:\Users\Asus\Documents\Уроки\курси\tasks\Sana02\While1\obj\Debug\net7.0\While1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Уроки\курси\tasks\Sana02\While1\obj\Debug\net7.0\While1.dll
+C:\Users\Asus\Documents\Уроки\курси\tasks\Sana02\While1\obj\Debug\net7.0\refint\While1.dll
+C:\Users\Asus\Documents\Уроки\курси\tasks\Sana02\While1\obj\Debug\net7.0\While1.pdb
+C:\Users\Asus\Documents\Уроки\курси\tasks\Sana02\While1\obj\Debug\net7.0\While1.genruntimeconfig.cache
+C:\Users\Asus\Documents\Уроки\курси\tasks\Sana02\While1\obj\Debug\net7.0\ref\While1.dll
